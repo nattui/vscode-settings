@@ -19,8 +19,8 @@
   "editor.tabSize": 2,
   // "editor.wordWrap": "on",
   // Changes the terminal to Git Bash
-  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-  "terminal.integrated.rendererType": "dom",
+  // "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  // "terminal.integrated.rendererType": "dom",
   // Workspace Settings --------------------------------- /
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
@@ -37,7 +37,7 @@
   "workbench.settings.useSplitJSON": true,
   "workbench.settings.editor": "json",
   // Controls whether snippets are shown with other suggestions and how they are sorted.
-  "workbench.editor.enablePreview": false,
+  // "workbench.editor.enablePreview": false,
   "diffEditor.ignoreTrimWhitespace": false,
   // EXT: Highlight Matching Tag ------------------------ /
   "highlight-matching-tag.styles": {
@@ -51,6 +51,5 @@
     }
   },
 }
-// "editor.formatOnSave": true, format when saved
 // "javascript.implicitProjectConfig.checkJs": true,
 // "javascript.preferences.quoteStyle": "single",
